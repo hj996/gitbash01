@@ -1,1 +1,2 @@
-friend1
+friendi1
+fr2
